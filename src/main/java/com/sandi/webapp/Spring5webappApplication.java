@@ -1,4 +1,4 @@
-package com.sandi.webapp.spring5webapp;
+package com.sandi.webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
